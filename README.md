@@ -85,7 +85,7 @@ We will review your PR and provide feedback if necessary.
 ## 👥 Meet the Mentor
 
 - **Arshad**  
-  **GitHub**: [@arshadcodes](https://github.com/MiiShell/)  
+  **GitHub**: [@MiiShell](https://github.com/MiiShell/)  
   Passionate about modern web development, open source, and mentoring new developers.
 
 ---
